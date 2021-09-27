@@ -1,0 +1,54 @@
+body{
+    background-color: #e7e4e4;
+}
+div.content {
+    margin-left: 100px;
+    padding: 50px 1px;
+}
+img{
+    border-radius: 100%;
+}
+
+div.card1, div.card2, div.card4{
+    display: flex;
+}
+div.nombre{
+    padding-right: 2rem; 
+}
+div.formacion{
+    position: absolute;
+    top: 14.6rem;
+}
+div.formacion1 {
+    padding-right: 2rem;
+    position: absolute;
+    top: 21rem;
+}
+div.formacion2{
+    position: absolute;
+    top: 21rem;
+    left: 19rem;
+}
+div.formacion3{
+    position: absolute;
+    top: 21rem;
+    left: 32rem;
+}
+div.formacion4{
+    position: absolute;
+    top: 21rem;
+    left: 45rem;
+}
+div.idiomas{
+    position: absolute;
+    top: 40rem
+}
+div.destrezas,div.aficciones{
+    padding-top: 5rem;
+    padding-right: 2rem;
+}
+div.referencias{
+    position: absolute;
+    top: 74.5rem;
+    left: 28.2rem;
+}

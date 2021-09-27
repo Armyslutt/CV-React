@@ -1,0 +1,38 @@
+.sidebar {
+  margin: 0;
+  padding: 0;
+  width: 70px;
+  background-color: #AFAFDF;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+}
+.sidebar:hover{
+  width: 70px;
+}
+
+/* Sidebar links */
+.sidebar a{
+  display: block;
+  color: black;
+  padding: 25px;
+  padding-top: 50%;
+  padding-bottom: 50%;
+  text-decoration: none;
+}
+
+/* Links on mouse-over */
+.sidebar a:hover {
+  background-color: #D0CFF5;
+  padding: 25px;
+  padding-top: 50%;
+  padding-bottom: 50%;
+}
+
+
+/* Page content. The value of the margin-left property should match the value of the sidebar's width property */
+div.content {
+  margin-left: 200px;
+  padding: 1px 16px;
+  height: 1000px;
+}
