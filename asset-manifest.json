@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/CV-React/static/css/main.3649bc0a.chunk.css",
+    "main.js": "/CV-React/static/js/main.f9de14c8.chunk.js",
+    "main.js.map": "/CV-React/static/js/main.f9de14c8.chunk.js.map",
+    "runtime-main.js": "/CV-React/static/js/runtime-main.f829483e.js",
+    "runtime-main.js.map": "/CV-React/static/js/runtime-main.f829483e.js.map",
+    "static/css/2.7f8c3ad6.chunk.css": "/CV-React/static/css/2.7f8c3ad6.chunk.css",
+    "static/js/2.8a992a41.chunk.js": "/CV-React/static/js/2.8a992a41.chunk.js",
+    "static/js/2.8a992a41.chunk.js.map": "/CV-React/static/js/2.8a992a41.chunk.js.map",
+    "index.html": "/CV-React/index.html",
+    "static/css/2.7f8c3ad6.chunk.css.map": "/CV-React/static/css/2.7f8c3ad6.chunk.css.map",
+    "static/css/main.3649bc0a.chunk.css.map": "/CV-React/static/css/main.3649bc0a.chunk.css.map",
+    "static/js/2.8a992a41.chunk.js.LICENSE.txt": "/CV-React/static/js/2.8a992a41.chunk.js.LICENSE.txt",
+    "static/media/error404.3aa730d6.jpg": "/CV-React/static/media/error404.3aa730d6.jpg",
+    "static/media/imgCurriculum.76fc5801.jpg": "/CV-React/static/media/imgCurriculum.76fc5801.jpg",
+    "static/media/primeicons.css": "/CV-React/static/media/primeicons.e61f3495.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f829483e.js",
+    "static/css/2.7f8c3ad6.chunk.css",
+    "static/js/2.8a992a41.chunk.js",
+    "static/css/main.3649bc0a.chunk.css",
+    "static/js/main.f9de14c8.chunk.js"
+  ]
+}
